@@ -1,4 +1,4 @@
 # Stock_Market_Analyser
 its a flask project
-ejrjbrj
-kevjr kjv rjv 
+All the files are zipped into a file
+please check it out
